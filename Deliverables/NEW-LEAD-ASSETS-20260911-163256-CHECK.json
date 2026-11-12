@@ -1,0 +1,12 @@
+{
+  "package": "/Volumes/EXTERNAL/ai视频/Deliverables/NEW-LEAD-ASSETS-20260911-163256",
+  "zip": "/Volumes/EXTERNAL/ai视频/Deliverables/NEW-LEAD-ASSETS-20260911-163256.zip",
+  "files": 29,
+  "images": 16,
+  "html_links": "all local targets exist",
+  "zip_crc": "pass",
+  "extracted_sha256": "all match",
+  "zip_sha256": "dc79b35489f4047f09d4f934909800da78b16709c25e7a15ff20aabbe004ff6c",
+  "excluded": "old faces, rework images, drafts, hidden metadata",
+  "extraction_evidence": "/Volumes/EXTERNAL/ai视频/Deliverables/NEW-LEAD-ASSETS-20260911-163256-ZIP-CHECK"
+}
